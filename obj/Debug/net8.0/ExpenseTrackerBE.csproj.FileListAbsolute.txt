@@ -33,3 +33,4 @@ D:\Projects\Expense Tracker\ExpenseTrackerBE\obj\Debug\net8.0\refint\ExpenseTrac
 D:\Projects\Expense Tracker\ExpenseTrackerBE\obj\Debug\net8.0\ExpenseTrackerBE.pdb
 D:\Projects\Expense Tracker\ExpenseTrackerBE\obj\Debug\net8.0\ExpenseTrackerBE.genruntimeconfig.cache
 D:\Projects\Expense Tracker\ExpenseTrackerBE\obj\Debug\net8.0\ref\ExpenseTrackerBE.dll
+D:\Projects\Expense Tracker\ExpenseTrackerBE\obj\Debug\net8.0\ExpenseTrackerBE.sourcelink.json
